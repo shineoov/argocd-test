@@ -5,3 +5,4 @@ metadata:
   namespace: sample
 data:
   NAME: {{ .Values.configmap.name }}
+  AGE: {{ .Values.configmap.age }}
