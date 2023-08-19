@@ -1,2 +1,3 @@
 configmap:
   name: "GG"
+  age: "13"
