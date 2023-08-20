@@ -1,3 +1,5 @@
+nginx:
+  replicas: 2
 configmap:
   name: "Production"
   image:
