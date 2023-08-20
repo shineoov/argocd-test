@@ -3,4 +3,4 @@ nginx:
 configmap:
   name: "Production"
   image:
-    tag: "stable-perl"
+    tag: "latest"
