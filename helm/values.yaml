@@ -1,3 +1,3 @@
 configmap:
-  name: "GG22"
-  age: "13AA"
+  name: "DEFAULT"
+  age: "ABC"
