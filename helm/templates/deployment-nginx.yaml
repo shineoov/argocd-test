@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: nginx-pod-container
-          image: nginx:latest
+          image: nginx:stable-perl
           ports:
               - containerPort: 80
           envFrom:
