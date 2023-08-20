@@ -2,4 +2,4 @@ configmap:
   name: "DEFAULT"
   age: "ABC"
   image:
-    tag: "stable-perl"
+    tag: "latest"
