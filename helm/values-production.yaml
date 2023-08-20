@@ -1,2 +1,4 @@
 configmap:
   name: "Production"
+  image:
+    tag: "stable-perl"

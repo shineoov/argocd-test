@@ -1,3 +1,5 @@
 configmap:
   name: "DEFAULT"
   age: "ABC"
+  image:
+    tag: "latest"
